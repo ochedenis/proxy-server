@@ -1,0 +1,30 @@
+{
+  "name": "proxy-server",
+  "version": "1.0.0",
+  "description": "study proxy-server",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/server/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ochedenis/proxy-server.git"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "Oched",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ochedenis/proxy-server/issues"
+  },
+  "homepage": "https://github.com/ochedenis/proxy-server#readme",
+  "dependencies": {
+    "http-proxy": "1.18.0"
+  },
+  "devDependencies": {
+    "commitizen": "4.0.4",
+    "nodemon": "2.0.3"
+  }
+}
