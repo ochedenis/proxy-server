@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/ochedenis/proxy-server#readme",
   "dependencies": {
-    "http-proxy": "1.18.0"
+    "http-proxy": "1.18.1"
   },
   "devDependencies": {
     "commitizen": "4.0.4",
